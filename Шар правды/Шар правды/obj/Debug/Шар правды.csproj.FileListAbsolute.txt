@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\bin\Debug\Шар правды.exe.config
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\bin\Debug\Шар правды.exe
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\bin\Debug\Шар правды.pdb
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар правды.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар_правды.Form1.resources
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар_правды.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар правды.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар правды.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар правды.exe
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар правды.pdb
+C:\Users\User\Desktop\проекты программирование\Шар правды\Шар правды\obj\Debug\Шар_правды.Resource1.resources
